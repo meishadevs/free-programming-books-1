@@ -1,6 +1,6 @@
 # 免费的学习资源列表 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[查看英文版的列表](/free-programming-books.md)
+[查看中文版列表](/free-programming-books-zh.md)
 
 ## 介绍
 这个列表由乔治·斯托克列克隆自 [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926). 
@@ -21,7 +21,7 @@
 
 
 ### 其他语言
-+阿拉伯语: [github](/free-programming-books-ar.md)
++ 阿拉伯语: [github](/free-programming-books-ar.md)
 + 阿塞拜疆语: [github](/free-programming-books-az.md)
 + 保加利亚语: [github](/free-programming-books-bg.md)
 + 缅甸语: [github](/free-programming-books-mm.md)
